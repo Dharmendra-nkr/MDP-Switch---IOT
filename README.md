@@ -21,10 +21,10 @@ The Arduino continuously monitors the switch positions and activates outputs bas
 
 <!-- Add project images here -->
 <!-- IMAGE 1 -->
-![Hardware Setup](./images/image1.jpeg)
+![Hardware Setup](./image1.jpeg)
 
 <!-- IMAGE 2 -->
-![Breadboard Connections](./images/image2.jpeg)
+![Breadboard Connections](./image2.jpeg)
 
 ---
 
@@ -140,3 +140,4 @@ The modular design makes it suitable for **embedded systems**, **digital electro
 **Course:** Internet of Things  
 **Institution:** Amrita Vishwa Vidyapeetham  
 **Program:** M.Sc Integrated Data Science
+
